@@ -26,3 +26,6 @@ then we make some check according to the user input , for example we run accept 
 iif we get accept from both filters then we print its content else we print a message acces denied
 , the user can creat his own filter . 
 note: i use my own html remover tags
+
+
+we Used intellij to write the code ,with java lang.
